@@ -5,8 +5,6 @@ Hey there 👋
 I'm Cezar, a software developer who loves JS techs like Node.js and React. With JS, I discovered a whole new world of opportunities in software development, since create great API's with Express, PostgreSQL or MongoDB and wonderful web apps with React.
 
 
-Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
-
 ## 📝 Latest Blog Posts
 
 <br>
