@@ -10,7 +10,9 @@ I'm Cezar, a software developer who loves JS techs like Node.js and React. With 
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Blog Post - Ponto de vista - Angular ou React para criar aplicações web?](https://www.tabnews.com.br/cezar/pov-why-angular-or-react-to-web-applications)
 - [Blog Post - Migrei do VS Code para o VIM](https://dev.to/cezarmzz/migrei-do-vs-code-para-o-vim-4o0p)
+
 
 <!-- BLOG-POST-LIST:END -->
 
