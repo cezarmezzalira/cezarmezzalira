@@ -25,16 +25,16 @@ I'm Cezar, a software developer who loves JS techs like Node.js and React. With 
 <br>
 <div style="display: flex; flex-direction: column;">
   <a href="https://github.com/cezarmzz/mongodb-small-guide">
-    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=cezarmzz&repo=mongodb-small-guide&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=cezarmezzalira&repo=mongodb-small-guide&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
   </a>
   <a href="https://github.com/cezarmzz/bday_messenger">
-    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=cezarmzz&repo=bday_messenger&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=cezarmezzalira&repo=bday_messenger&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
   </a>
   <a href="https://github.com/cezarmzz/windows_decrap">
-    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=cezarmzz&repo=windows_decrap&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=cezarmezzalira&repo=windows_decrap&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
   </a>
   <a href="https://github.com/cezarmzz/dotfiles">
-    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=cezarmzz&repo=dotfiles&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=cezarmezzalira&repo=dotfiles&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
   </a>
 </div>
 
@@ -45,7 +45,7 @@ I'm Cezar, a software developer who loves JS techs like Node.js and React. With 
 <br>
 
 <a href="https://github.com/cezarmzz">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=cezarmzz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=cezarmezzalira&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" />
 </a>
 
 
